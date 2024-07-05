@@ -4,7 +4,7 @@
 - Tailwind CSS for styling
 - Vue Router for routing
 - Pinia for global state management
-- Vueuse for easy access to local storage to persist globabl state
+- Vueuse for easy access to local storage to persist global state
 
 ## Project Setup
 
